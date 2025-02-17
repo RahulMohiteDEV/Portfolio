@@ -1,7 +1,7 @@
 import React from "react";
 import AboutImg from "../../assets/rahul.jpeg";
 import { IoArrowForward } from "react-icons/io5";
-import resume from "../../assets/resume/Rahul Mohite.pdf"
+import resume from "../../assets/resume/Rahul Mohite (9922935750).pdf"
 
 const About = () => {
   return (
